@@ -1,4 +1,3 @@
-Problems:
 1. Write a C program to print your name on the screen.
 2. Write a C program that takes a three-digit number as input and calculates the sum of its digits.
 3. Write a C program to take an integer as input and display its last digit.
