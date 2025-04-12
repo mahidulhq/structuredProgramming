@@ -7,7 +7,7 @@
     <li>Folders are structured by lab tests (e.g., <code>Lab Test 01</code>, <code>Lab Test 02</code>).</li>
     <li>Each folder includes:
         <ul>
-            <li><code>Problems.md</code> – Problem statements.</li>
+            
             <li><code>.c</code> files – Solutions with commented problem descriptions.</li>
         </ul>
     </li>
