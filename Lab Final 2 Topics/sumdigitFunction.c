@@ -1,6 +1,5 @@
 // Write a function to compute the sum of digits of a number
 #include <stdio.h>
-
 int sumDigit(int n) {
     int sum = 0;
     while(n != 0) {
@@ -14,6 +13,7 @@ int main() {
     int n;
     scanf("%d", &n);
 
+    if(n < 0) n = -n;
     printf("%d\n", sumDigit(n));
     return 0;
 }
