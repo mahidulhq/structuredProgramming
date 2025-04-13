@@ -1,15 +1,12 @@
 // Write a function to calculate the square of a number
-#include<stdio.h>
-
-int square(int num) {
-    return num * num;
+#include <stdio.h>
+int square(int n) {
+    return n * n;
 }
-
 int main() {
-    int n;
-    scanf("%d", &n);
-    n = square(n);
+    int num;
+    scanf("%d", &num);
 
-    printf("%d", n);
+    printf("%d\n", square(num));
     return 0;
 }
